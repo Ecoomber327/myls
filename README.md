@@ -9,6 +9,8 @@ gcc -Wall -pedantic -o myls myls.c
 
 
 **** Code description ****
+
+
 A source file, myls.c, implements the following logic:
 
 When compiled and run with no arguments, it lists all non-hidden files in the current directory. 
