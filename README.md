@@ -1,5 +1,5 @@
 # myls
-Implements a version of the ls command with similar behavior.
+Implements a version of the ls command.
 
 *** To compile and run in the linux terminal ****
 
