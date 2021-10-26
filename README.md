@@ -1,6 +1,14 @@
 # myls
 Implements a version of the ls command with similar behavior.
 
+*** To compile and run in the linux terminal ****
+
+gcc -Wall -pedantic -o myls myls.c
+
+./myls
+
+
+**** Code description ****
 A source file, myls.c, implements the following logic:
 
 When compiled and run with no arguments, it lists all non-hidden files in the current directory. 
